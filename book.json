@@ -3,7 +3,8 @@
         "autocover",
         "katex-full",
         "exercises",
-        "anchor-navigation"
+        "anchor-navigation",
+        "git-author"
     ],
     "pluginsConfig": {}
 }

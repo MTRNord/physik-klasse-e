@@ -19,4 +19,4 @@ $$v(t)=v_{0}+a*t$$
 
 ## Beschleunigung berechnen
 
-Hierzu kann man entweder die Formel der Beschleunigung oder die Formel, des zurückgelegten Weg umstellen. Hierbei stellt man nach $$a$$ um.
+Hierzu kann man entweder die Formel der Beschleunigung oder die Formel, des zurückgelegten Weg nach $$a$$ umstellen.

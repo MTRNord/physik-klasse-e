@@ -7,7 +7,13 @@
 
 
 
-$$s(t)=s_{0}+v*t$$
+
+
+$$
+s(t)=s_{0}+v*t
+$$
+
+
 
  - $$s$$ ist die Strecke in Meter [m]
  - $$v$$ ist die Geschwindigkeit in Meter pro Sekunde [m/s]
@@ -17,7 +23,13 @@ $$s(t)=s_{0}+v*t$$
 
 ## 
 
-$$v(t)=v_{0}+a*t$$
+
+
+$$
+v(t)=v_{0}+a*t
+$$
+
+
 
 
 ## Beschleunigung berechnen

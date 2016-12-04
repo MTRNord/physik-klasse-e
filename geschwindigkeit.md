@@ -9,10 +9,10 @@
 
 
 
-$$
-s(t)=s_{0}+v*t
-$$
+$$s(t)=s_{0}+v*t$$
 
+
+<br>
 
 
  - $$s$$ ist die Strecke in Meter [m]
@@ -25,12 +25,9 @@ $$
 
 
 
-$$
-v(t)=v_{0}+a*t
-$$
+$$v(t)=v_{0}+a*t$$
 
-
-
+<br>
 
 ## Beschleunigung berechnen
 

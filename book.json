@@ -2,7 +2,8 @@
     "plugins": [
         "autocover",
         "katex-full",
-        "exercises"
+        "exercises",
+        "anchor-navigation"
     ],
     "pluginsConfig": {}
 }

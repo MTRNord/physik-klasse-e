@@ -6,7 +6,7 @@
         "git-author",
         "todo",
         "word-count",
-        "mathjax-full"
+        "mathjax"
     ],
     "pluginsConfig": {}
 }

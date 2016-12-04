@@ -4,7 +4,8 @@
         "katex-full",
         "exercises",
         "anchor-navigation",
-        "git-author"
+        "git-author",
+        "todo"
     ],
     "pluginsConfig": {}
 }

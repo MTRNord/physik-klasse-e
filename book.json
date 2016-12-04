@@ -5,7 +5,8 @@
         "anchor-navigation",
         "git-author",
         "todo",
-        "word-count"
+        "word-count",
+        "mathjax-full"
     ],
     "pluginsConfig": {}
 }

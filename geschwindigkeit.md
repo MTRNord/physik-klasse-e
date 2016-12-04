@@ -21,7 +21,7 @@ $$s(t)=s_{0}+v*t$$
  - $$s_{0}$$ ist der Anfangsweg in Meter [m]
 
 
-## 
+## Berechnen des zurückgelegten Weg
 
 
 

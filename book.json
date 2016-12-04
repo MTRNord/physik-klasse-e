@@ -1,7 +1,6 @@
 {
     "plugins": [
         "autocover",
-        "katex-full",
         "exercises",
         "anchor-navigation",
         "git-author",

@@ -1,7 +1,8 @@
 {
     "plugins": [
         "autocover",
-        "katex-full"
+        "katex-full",
+        "exercises"
     ],
     "pluginsConfig": {}
 }

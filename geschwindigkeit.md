@@ -13,7 +13,7 @@ $$s(t)=s_{0}+v*t$$
 
 ## Berechnen des zurückgelegten Weg
 
-$$v(t)=v_{0}+a*t$$
+$$v(t)=v*t_{0}+\frac{1}{2}a*t^{2}$$
 
 <br>
 

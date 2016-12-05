@@ -1,4 +1,3 @@
-
 # Geschwindigkeit
 ## Beschreiben der Geschwindigkeit einer gleichförmigen Bewegung
 
